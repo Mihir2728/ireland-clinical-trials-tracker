@@ -1,0 +1,6 @@
+requests
+duckdb
+pandas
+plotly
+pyyaml
+pytest
